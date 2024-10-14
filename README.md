@@ -110,12 +110,3 @@ By developing a feature that allows users to share their AI generated images wit
 Building a modern and minimalistic design taught me about the importance of design and user experience in web applications and how they impact user engagement.
 
 Overall, this project was a great learning experience that helped me improve my web development skills and gain a better understanding of the technologies involved.
-
-## 🚀 About Me
-Hi there! I am Sai Vamsi, a final year computer science undergraduate with specialization in Artificial Intelligence at Vel Tech University, Chennai. I have a strong passion for software development, and Artificial Intelligence.
-
-I'm proficient in C, C++, Java, and Python programming languages. I also have expertise in Data Structures and Algorithms. Besides, I am a Full-stack Web Developer who is familiar with front-end development technologies like HTML, CSS, JavaScript, and React, and also back-end development with Node.js, Express.js, and MongoDB.
-
-On my GitHub profile, you can find a collection of projects that demonstrate my programming and development skills. 
-
-Thank you for taking the time to learn about me, and feel free to check out my projects on GitHub!
